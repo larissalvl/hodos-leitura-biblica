@@ -1,3 +1,5 @@
+Read this in English: README.en.md
+
 # Hodos — App de Leitura Bíblica
 
 Aplicativo Android para acompanhamento de planos de leitura biblica, desenvolvido no MIT App Inventor (appinventor.mit.edu).
